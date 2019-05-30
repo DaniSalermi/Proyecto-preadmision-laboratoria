@@ -182,47 +182,62 @@ let preguntasHarryPotter = [
     respuestaCorrecta: 'Rubeus Hagrid'
   },
   {
-    pregunta: '¿De quién es la varita que Harry usó en su duelo final con Lord Voldemort?',
-    respuesta1: 'Ginny Weasley',
-    respuesta2: 'Draco Malfoy',
-    respuesta3: 'Rubeus Hagrid',
-    respuestaCorrecta: 'Draco Malfoy'
+    pregunta: '¿Quién tuvo en su poder la Capa de Invisibilidad que fue de James Potter y más tarde cedida a Harry?',
+    respuesta1: 'Draco Malfoy',
+    respuesta2: 'Albus Dumbledore',
+    respuesta3: 'Ginny Weasley',
+    respuestaCorrecta: 'Albus Dumbledore'
   },
   {
-    pregunta: '¿Quién en el último partido de Quidditch reemplazó a Harry?',
-    respuesta1: 'Ginny Weasley',
+    pregunta: '¿Quién fue capaz de elaborar la Poción multijugos en segundo año de la escuela?',
+    respuesta1: 'Harry Potter',
     respuesta2: 'Hermione Granger',
     respuesta3: 'Ron Weasley',
-    respuestaCorrecta: 'Ginny Weasley'
+    respuestaCorrecta: 'Hermione Granger'
   },
   {
-    pregunta: '¿Quién tuvo una Acromántula llamada Aragog como mascota?',
-    respuesta1: 'Ron Weasley',
+    pregunta: '¿Cuál es el personaje que su varita mide 30 centímetros, es de pino negro y fibras de corazón de dragón?',
+    respuesta1: 'Severus Snape',
     respuesta2: 'Lord Voldemort',
-    respuesta3: 'Rubeus Hagrid',
-    respuestaCorrecta: 'Rubeus Hagrid'
+    respuesta3: 'Harry Potter',
+    respuestaCorrecta: 'Severus Snape'
   },
   {
-    pregunta: '¿De quién es la varita que Harry usó en su duelo final con Lord Voldemort?',
-    respuesta1: 'Ginny Weasley',
-    respuesta2: 'Draco Malfoy',
-    respuesta3: 'Rubeus Hagrid',
-    respuestaCorrecta: 'Draco Malfoy'
+    pregunta: '¿A cuál casa pertenece Luna Lovegood?',
+    respuesta1: 'Ravenclaw',
+    respuesta2: 'Gryffindor',
+    respuesta3: 'Hufflepuff',
+    respuestaCorrecta: 'Ravenclaw'
   },
   {
-    pregunta: '¿Quién en el último partido de Quidditch reemplazó a Harry?',
-    respuesta1: 'Ginny Weasley',
+    pregunta: '¿Quién fue criado en un orfanato muggle?',
+    respuesta1: 'Luna Lovegood',
     respuesta2: 'Hermione Granger',
-    respuesta3: 'Ron Weasley',
-    respuestaCorrecta: 'Ginny Weasley'
+    respuesta3: 'Lord Voldemort',
+    respuestaCorrecta: 'Lord Voldemort'
   },
   {
-    pregunta: '¿Quién tuvo una Acromántula llamada Aragog como mascota?',
+    pregunta: '¿Quién se destaca como jugador de ajedrez mágico?',
     respuesta1: 'Ron Weasley',
     respuesta2: 'Lord Voldemort',
-    respuesta3: 'Rubeus Hagrid',
-    respuestaCorrecta: 'Rubeus Hagrid'
+    respuesta3: 'Hermaione Granger',
+    respuestaCorrecta: 'Ron Weasley'
+  },
+  {
+    pregunta: '¿Quién fundó la casa Gryffindor?',
+    respuesta1: 'Rowena Gryffindor',
+    respuesta2: 'Helga Gryffindor',
+    respuesta3: 'Godric Gryffindor',
+    respuestaCorrecta: 'Godric Gryffindor'
+  },
+  {
+    pregunta: '¿Cuál de los siguientes profesores es el líder de la casa Ravenclaw?',
+    respuesta1: 'Filius Flitwick',
+    respuesta2: 'Pomona Sprout',
+    respuesta3: 'Frederick Flitwick',
+    respuestaCorrecta: 'Filius Flitwick'
   }
+
 ];
 
 // ! GUARDAR NOMBRE
